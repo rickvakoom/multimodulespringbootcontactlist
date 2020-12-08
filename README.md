@@ -2,8 +2,6 @@
 
 ## Project
 
-Matriculation Number: 16-660-968
-
 You might choose between following **Java** applications:
 * Contact list
 * Library
@@ -46,7 +44,6 @@ You will have to use a repository (or database), where you will _persist_ the en
 * [PetClinic](https://github.com/spring-projects/spring-petclinic)
 
 ## Project delivery
-(_to be filled by student_)
 
 How to start the project:
 
@@ -58,6 +55,3 @@ Other comments:
 
 I'm particular proud of:
 
-## Project grading
-
-(_to be filled by lecturer_)
